@@ -1,4 +1,4 @@
-<h1>SIEM-Azure-Sentinel-Map-with-FAILED-RDP-ATTTEMPTS</h1>
+<h1>SIEM-Azure-Sentinel</h1>
 
 <h2>Description</h2>
 Used Azure Sentinel (SIEM) to connect to a live virtual machine acting as a honey pot and observed live failed RDP attempts. Together with the Azure Log Analytics Workspace to query the and a custom PowerShell script to plot these attempts on a world map. was able
